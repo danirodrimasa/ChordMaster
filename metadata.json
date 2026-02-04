@@ -1,0 +1,5 @@
+{
+  "name": "ChordMaster - Local Piano Transposer",
+  "description": "A local-first web application for musicians to enter, manage, and transpose piano chords with real-time piano visualization.",
+  "requestFramePermissions": []
+}
